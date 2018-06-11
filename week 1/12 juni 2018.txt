@@ -1,0 +1,25 @@
+12 juni 2018
+
+Gedaan sinds vorige meeting:
+
+- Data gecheckt op fouten/inconsistentie
+- Onnodige kolommen uit csv verwijderd
+- Lege vakjes in kolommen opgevuld
+- Aggregation/generelization: Code geschreven om bestand in python tabel te laden en om berekeningen met data te doen
+- Gekeken of data reduction nodig is
+- Gekeken of attribute construction nodig is
+
+Problemen:
+
+- Staten classificeren? (California -> 1, Ohio -> 2, ...)
+- Omgaan met onbekende waardes voor attribute construction (people killed per gun involved, n of guns unknown)
+
+Plan komende dagen:
+
+- Subquestions formuleren
+- Hypotheses opstellen
+- Proberen de subquestions te beantwoorden
+
+Eventueel:
+- Classificeren
+- Attribute construction
