@@ -16,6 +16,7 @@ Problemen:
 
 Plan komende dagen:
 
+- verder gaan met aggregation en normaliation
 - Subquestions formuleren
 - Hypotheses opstellen
 - Proberen de subquestions te beantwoorden
