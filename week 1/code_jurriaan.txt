@@ -1,0 +1,125 @@
+EEEEE = 0
+EEEE = 0
+EEE = 0
+EE = 0
+E = 0
+W = 0
+WW = 0
+WWW = 0
+WWWW = 0
+WWWWW = 0
+
+
+NNNN = 0
+NNN = 0
+NN = 0
+N = 0
+S = 0
+SS = 0
+SSS = 0
+SSSS = 0
+    
+
+
+for i in df1["latitude"]:
+    if i < 25.5:
+        NNNN += 1
+    elif i < 32:
+        NNN += 1
+    elif i < 38.5:
+        NN += 1
+    elif i < 45:
+        N += 1
+    elif i < 51.5:
+        S += 1
+    elif i < 58:
+        SS += 1
+    elif i < 64.5:
+        SSS += 1
+    else:
+        SSSS += 1
+    
+
+for i in df1["longitude"]:
+    if i > -77.75 and i < -65:
+        EEEE += 1
+    elif i > -90.25:
+        EEE += 1
+    elif i > -103:
+        EE += 1
+    elif i > -115.75:
+        E += 1
+    elif i > -128.5:
+        W += 1
+    elif i > -141.25:
+        WW += 1
+    elif i > -153.75:
+        WWW += 1
+    else:
+        WWWW += 1
+
+print('NNNN: ',NNNN)
+print('NNN: ', NNN)
+print('NN: ', NN)
+print('N: ', N)
+print('S: ', S)
+print('SS: ',SS)
+print('SSS: ', SSS)
+print('SSSS: ', SSSS, '\n')
+
+print('EEEE: ',EEEE)
+print('EEE: ', EEE)
+print('EE: ', EE)
+print('E: ', E)
+print('W: ', W)
+print('WW: ',WW)
+print('WWW: ', WWW)
+print('WWWW: ', WWWW)
+
+N = ['Washington', 'Oregon', 'Idaho', 'North Dakota', 'South Dakota', 'Minnesota', 'Wisconsin', 'michigan', 'Pennsylvania', 'New Jersey', 'New York', 'Rhode Island', 'Connecticut', 'Massachusetts', 'Vermont', 'New Hampshire', 'Maine', 'Wyoming']
+Mns = ['California', 'Nevada', 'Utah', 'Colorado', 'Nebraska', 'Kansas', 'Missouri', 'Iowa', 'Illinois', 'Indiana', 'Kentucky', 'Ohio', 'Virginia', 'West Virginia']
+S = ['Arizona', 'New Mexico', 'Texas', 'Oklahoma', 'Arkansas', 'Louisiana', 'Tennessee', 'Mississippi', 'Alabama', 'Georgia', 'North Carolina', 'South Carolina', 'Florida']
+
+N_incidents = 0
+Mns_incidents = 0
+S_incidents = 0
+
+for i in df1['state']:
+    if i in N:
+        N_incidents+=1
+    if i in Mns:
+        Mns_incidents+=1
+    if i in S:
+        S_incidents+=1
+        
+N_inc = N_incidents / 90377988
+Mns_inc = Mns_incidents / 103904646
+S_inc = S_incidents / 96486508
+
+print('incidents per person in the north: ', N_inc)
+print('incidents per person in the middle: ', Mns_inc)
+print('incidents per person in the south: ', S_inc)
+
+E = ['California', 'Washington', 'Oregon', 'Nevada']
+Mew = ['North Dakota', 'South Dakota', 'Oklahoma', 'Texas', 'Nebraska', 'Kansas']
+W = ['New York', 'Florida', 'North Carolina', 'South Carolina', 'Maine', 'Virginia', 'Georgia', 'Pennsylvania']
+
+E_incidents = 0
+Mew_incidents = 0
+W_incidents = 0
+
+for i in df1['state']:
+    if i in E:
+        E_incidents+=1
+    if i in Mew:
+        Mew_incidents+=1
+    if i in W:
+        W_incidents+=1
+        
+E_inc = E_incidents / 49049634
+Mew_inc = Mew_incidents / 33037187
+W_inc = W_incidents / 71978904
+
+print('incidents per person in the east: ', E_inc)
+print('incidents per person in the middle: ', Mew_inc)
+print('incidents per person in the west: ', W_inc)
