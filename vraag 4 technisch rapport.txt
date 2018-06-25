@@ -1,0 +1,15 @@
+Vraag 4 technisch rapport
+
+Vraag: Heeft de tijd van het jaar invloed op de hoeveelheid gun violence? 
+
+(Uitleggen over aanpak? (.sum()?) 
+
+Aanpak
+Om de hoeveelheid gun violence per seizoen te bekijken is gekozen om een diagram te maken waarin stafen het aantal incidenten, doden en gewonden representeren. Deze stafen staan naast elkaar zodat de data van elk seizoen goed met andere zeizoenen en/of andere jaren kan worden vergeleken. Er is van ongeveer drie jaar goede data beschikbaar, van begin 2014 tot begin 2017. Van 2013 is ook data bekend maar deze data is erg onvolledig en er is om deze rede voor gekozen om deze data voor het benatwoorden van deze deelvraag te negeren. Gebruik van deze data zou de verhouding in het aantal incidenten tussen verschillende jaren en seizoenen namelijk verstoren. Om overzichtelijker te maken wat de daadwerkelijke verschillen in gun violence zijn tussen verschillende seizoenen, zijn er ook cirkeldiagrammen gemaakt. In deze diagrammen is een gemiddelde van de data van drie jaar genomen per seizoen. Er is een diagram gemaakt waarin de verhouding tussen het aantal incidenten per seizoen van 2014 tot en met 2016 is te zien. Hetzelfde is gedaan voor het aantal doden en het aantal gewonden in deze periode. Tot slot is er nog een cirkeldiagram waarin het aantal incidenten, doden en gewonden bij elkaar opgeteld om een beter beeld te krijgen van de totale omvang van gun violence in de genoemde periode. 
+
+Resultaten
+
+Er is te zien dat in de zomer van 2014 tot en met 2016 meer gun violence plaatsvond dan in de andere seizoenen. In de lente en herfst ligt de hoeveelheid gun violence dicht bij elkaar. Het aantal incidenten is vrijwel gelijk, er is een fractie meer incidenten in de herfst, maar er is wel een klein verschil te zien in de verhouding doden en gewonden. In de herfst overleiden naar verhouding meer mensen als gevolg van gun violence dan in de zomer, terwijl er is de lente naar verhouding meer gewonden zijn dan in de herfst. Deze getallen liggen echter dicht bij elkaar, er is telkens een verschil van minder dan 1%. Tot slot is in de winter duidelijk het minste gun violence.
+
+Discussie
+
