@@ -10,7 +10,22 @@ p  {
 background-image {
     url("backgr.jpg"
 }
-div.border {
+h.border {
+    width: 300px;
+    padding: 25px;
+    background-color: lightblue;
+}
+h1.border {
+    width: 300px;
+    padding: 25px;
+    background-color: lightblue;
+}
+h2.border {
+    width: 300px;
+    padding: 25px;
+    background-color: lightblue;
+}
+p.border {
     width: 300px;
     padding: 25px;
     background-color: lightblue;
