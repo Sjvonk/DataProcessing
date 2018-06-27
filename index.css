@@ -10,3 +10,8 @@ p  {
 background-image {
     url("backgr.jpg"
 }
+div.border {
+    width: 300px;
+    padding: 25px;
+    background-color: lightblue;
+}
