@@ -21,8 +21,8 @@ h1.border {
     background-color: lightblue;
 }
 h2.border {
-    width: 300px;
-    padding: 25px;
+    width: 300;
+    padding: 25;
     background-color: lightblue;
 }
 p.border {
