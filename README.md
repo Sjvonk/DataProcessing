@@ -12,6 +12,8 @@
 - Ontwikkeling gun violence in komende jaren
 
 
+![4.3bii]
+
 
 ## Welcome to GitHub Pages
 
