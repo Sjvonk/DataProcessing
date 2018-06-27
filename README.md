@@ -1,3 +1,17 @@
+# Gun violence
+
+## Onderzoek naar data van gun violence in de Verenigde Staten tussen eind 2013 en begin 2018.
+
+### Onderzocht:
+- Verschillen tussen staten
+- Interessant patroon?
+- Patroon in relatie tussen schutter en slachtoffer(s)
+- Invloed tijd van het jaar
+- Oorzaken uitschieters
+- Gebruik type wapens per staat
+- Ontwikkeling gun violence in komende jaren
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Sjvonk/DataProcessing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
