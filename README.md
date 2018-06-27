@@ -11,9 +11,7 @@
 - Gebruik type wapens per staat
 - Ontwikkeling gun violence in komende jaren
 
-
-![4.3bii]
-
+![Grafiek](Vragen\4staaf)
 
 ## Welcome to GitHub Pages
 
