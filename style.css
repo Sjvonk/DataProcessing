@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+h2 {
+    color: darkblue;
+}
+p  {
+    color: purple;
+}
+background-image {
+    url("backgr.jpg"
+}
+h.border {
+    width: 300px;
+    padding: 25px;
+    background-color: lightblue;
+}
+h1.border {
+    width: 300px;
+    padding: 25px;
+    background-color: lightblue;
+}
+h2.border {
+    width: 300;
+    padding: 25;
+    background-color: lightblue;
+}
+p.border {
+    width: 300px;
+    padding: 25px;
+    background-color: lightblue;
+}
