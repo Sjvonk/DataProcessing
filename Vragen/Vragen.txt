@@ -3,10 +3,9 @@
 3. How does the pattern between killer/victim look between various incidents over the years.
    Is it mostly family/relation or do we see more reported gang violence for instance?
 
-
 4 Heeft de tijd van het jaar invloed op de hoeveelheid gun violence? (Zomer, winter)
-5 Kijken naar de leeftijd van killers/victims. Kijken naar geslacht van killers/victims.
-6 Wat zijn de oorzaken van de uitschieters? (10 of meer doden)
-7 (Kijken of bepaalde staten bepaalde gun_types gebruiken)
-8 (Verhouding killed/injured bij man of vrouw/jong of oud, als man 10 shiet doodt ie meer dan als een vrouw 10 keer schiet)
+(5) Kijken naar de leeftijd van killers/victims. Kijken naar geslacht van killers/victims.
+(6) Wat zijn de oorzaken van de uitschieters? (10 of meer doden)
+7 Kijken of bepaalde staten bepaalde gun_types gebruiken
+(8) Verhouding killed/injured bij man of vrouw/jong of oud (als man 10 keer shciet doodt hij dan meer dan als een vrouw 10 keer schiet?)
 9 Hoe zal gun violence in de VS zich in de komende jaren ontwikkelen?
