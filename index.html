@@ -15,6 +15,11 @@ h2.border {
     background-color: lightblue;
 }
 </style>
+<script>
+  $(function(){
+      $("#includedContent").load("d3-chloroplath-map.html");
+    });
+    </script>
 <h1> DataProcessing: Gun violence </h1>
 
 <h2 class="none"><b>Onderzoek naar data van gun violence in de Verenigde Staten tussen eind 2013 en begin 2018.</b></h2>
@@ -61,7 +66,7 @@ h2.border {
 
 <h2 class="border">Ontwikkeling gun violence in de toekomst</h2>
 
-    <div w3-include-html="d3-cloropleth-map.html"></div>
+    <div id="includedContent"></div>
 
 
 
